@@ -1,0 +1,15 @@
+D:\PERSONAL\ASPDOTNETBootCamp\TechKraftDotNetBootCamp\BootCampClass\DesignPatterns\bin\Debug\net6.0\DesignPatterns.exe
+D:\PERSONAL\ASPDOTNETBootCamp\TechKraftDotNetBootCamp\BootCampClass\DesignPatterns\bin\Debug\net6.0\DesignPatterns.deps.json
+D:\PERSONAL\ASPDOTNETBootCamp\TechKraftDotNetBootCamp\BootCampClass\DesignPatterns\bin\Debug\net6.0\DesignPatterns.runtimeconfig.json
+D:\PERSONAL\ASPDOTNETBootCamp\TechKraftDotNetBootCamp\BootCampClass\DesignPatterns\bin\Debug\net6.0\DesignPatterns.dll
+D:\PERSONAL\ASPDOTNETBootCamp\TechKraftDotNetBootCamp\BootCampClass\DesignPatterns\bin\Debug\net6.0\DesignPatterns.pdb
+D:\PERSONAL\ASPDOTNETBootCamp\TechKraftDotNetBootCamp\BootCampClass\DesignPatterns\obj\Debug\net6.0\DesignPatterns.csproj.AssemblyReference.cache
+D:\PERSONAL\ASPDOTNETBootCamp\TechKraftDotNetBootCamp\BootCampClass\DesignPatterns\obj\Debug\net6.0\DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+D:\PERSONAL\ASPDOTNETBootCamp\TechKraftDotNetBootCamp\BootCampClass\DesignPatterns\obj\Debug\net6.0\DesignPatterns.AssemblyInfoInputs.cache
+D:\PERSONAL\ASPDOTNETBootCamp\TechKraftDotNetBootCamp\BootCampClass\DesignPatterns\obj\Debug\net6.0\DesignPatterns.AssemblyInfo.cs
+D:\PERSONAL\ASPDOTNETBootCamp\TechKraftDotNetBootCamp\BootCampClass\DesignPatterns\obj\Debug\net6.0\DesignPatterns.csproj.CoreCompileInputs.cache
+D:\PERSONAL\ASPDOTNETBootCamp\TechKraftDotNetBootCamp\BootCampClass\DesignPatterns\obj\Debug\net6.0\DesignPatterns.dll
+D:\PERSONAL\ASPDOTNETBootCamp\TechKraftDotNetBootCamp\BootCampClass\DesignPatterns\obj\Debug\net6.0\refint\DesignPatterns.dll
+D:\PERSONAL\ASPDOTNETBootCamp\TechKraftDotNetBootCamp\BootCampClass\DesignPatterns\obj\Debug\net6.0\DesignPatterns.pdb
+D:\PERSONAL\ASPDOTNETBootCamp\TechKraftDotNetBootCamp\BootCampClass\DesignPatterns\obj\Debug\net6.0\DesignPatterns.genruntimeconfig.cache
+D:\PERSONAL\ASPDOTNETBootCamp\TechKraftDotNetBootCamp\BootCampClass\DesignPatterns\obj\Debug\net6.0\ref\DesignPatterns.dll
